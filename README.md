@@ -2,7 +2,7 @@
 
 ![A screenshot of the project](./developerportfoliothumbnail.png)
 
-Visit : https://nisat-gg.github.io/portfolio/
+Visit : https://nisatevo.github.io/portfolio/
 
 # How to run
 
